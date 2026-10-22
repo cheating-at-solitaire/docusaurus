@@ -1,0 +1,7 @@
+cat > docs/linux/_category_.json <<'EOF'
+{
+  "label": "Linux Help Guides",
+  "position": 5,
+  "collapsed": false
+}
+EOF

@@ -1,0 +1,9 @@
+
+> docusaurus-site@0.0.0 start
+> docusaurus start --host 127.0.0.1 --port 3000
+
+[INFO] Starting the development server...
+[SUCCESS] Docusaurus website is running at: http://127.0.0.1:3000/
+[webpackbar] ℹ Compiling Client
+[webpackbar] ✔ Client: Compiled successfully in 894.46ms
+client (webpack 5.112.0) compiled successfully
