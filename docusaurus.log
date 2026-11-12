@@ -5,5 +5,20 @@
 [INFO] Starting the development server...
 [SUCCESS] Docusaurus website is running at: http://127.0.0.1:3000/
 [webpackbar] ℹ Compiling Client
-[webpackbar] ✔ Client: Compiled successfully in 894.46ms
+[webpackbar] ✔ Client: Compiled successfully in 2.09s
 client (webpack 5.112.0) compiled successfully
+[webpackbar] ℹ Compiling Client
+[webpackbar] ✔ Client: Compiled successfully in 556.36ms
+client (webpack 5.112.0) compiled successfully
+16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 3000
+}
+
+Node.js v24.18.0
